@@ -341,3 +341,56 @@ java.lang.NullPointerException: Cannot invoke "org.dynmap.DynmapCore.disableCore
 [14:03:26] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [14:03:26] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
 [14:04:42] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:07:05] [Server thread/INFO]: Stopping the server
+[14:07:05] [Server thread/INFO]: Stopping server
+[14:07:05] [Server thread/INFO]: [Zenchantments] Disabling Zenchantments v19.4.0
+[14:07:05] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.18.0
+[14:07:05] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[14:07:05] [Server thread/INFO]: [voicechat] Disabling voicechat v2.4.30
+[14:07:05] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.2
+[14:07:05] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[14:07:05] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.50
+[14:07:05] [Server thread/INFO]: §a**************************************§r
+[14:07:05] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r is DISABLED
+[14:07:05] [Server thread/INFO]: §a**************************************§r
+[14:07:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[14:07:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[14:07:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[14:07:05] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.9.0
+[14:07:05] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.6.1
+[14:07:05] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
+[14:07:05] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[14:07:05] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[14:07:06] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[14:07:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[14:07:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[14:07:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[14:07:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[14:07:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.19+6642-415ef95
+[14:07:06] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:07:06] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[14:07:06] [Server thread/INFO]: Saving players
+[14:07:06] [Thread-16/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[14:07:06] [Server thread/INFO]: Saving worlds
+[14:07:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Saved 383 block chunks, 58 entity chunks, 1 poi chunks in world 'world' in 0.24s
+[14:07:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:07:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:07:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[14:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:07:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:07:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:07:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:07:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:07:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[14:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:07:07] [Server thread/INFO]: Flushing Chunk IO
+[14:07:07] [Server thread/INFO]: Closing Thread Pool
+[14:07:07] [Server thread/INFO]: Closing Server
