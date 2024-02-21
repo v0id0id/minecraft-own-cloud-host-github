@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1708437698420
-  login: 1708437460528
+  logout: 1708447326237
+  login: 1708447213706
 money: '0'
 last-account-name: Zero_two
 logoutlocation:
   world: 8003b472-726a-4cab-97f7-620e24b66b8d
   world-name: world
-  x: 16.129777764624016
+  x: 2.479786014229587
   y: 64.0
-  z: -330.5602377909719
-  yaw: 90.5751953125
-  pitch: 29.699764251708984
+  z: -339.2168937052327
+  yaw: -175.5206298828125
+  pitch: 15.899877548217773
